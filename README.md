@@ -1,6 +1,5 @@
 ### Hi there 👋
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.icodesolution.com/resource/images/mobile-app-development.gif" height="100" /></a>
-**mrjafarii/mrjafarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

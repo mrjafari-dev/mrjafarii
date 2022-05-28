@@ -1,10 +1,9 @@
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://students.ubc.ca/sites/students.ubc.ca/files/connection.gif" height="10%"/></a>
+<a href="URL_REDIRECT" target="blank"><img align="https://i.ibb.co/pryhvQf/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5934627a7636445962597a79386a446e6f572f67.gif" height="100%"/></a>
 
 <h2> Hi  👋 , I'm Mohammadreza Jafari </h2>
 
 Here are some ideas to get you started:
-
-- 🔭 
+ 
 - 🌱 
 - 🤔 
 - 💬 

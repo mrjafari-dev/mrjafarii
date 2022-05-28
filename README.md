@@ -1,5 +1,6 @@
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://camo.githubusercontent.com/0c252a90f0481a7882802d8f68a93a363939f032b19c2dd1b6461b9b3a85de75/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f73697a653d353026636f6c6f723d3030414446462663656e7465723d74727565267643656e7465723d747275652677696474683d31303030266865696768743d323030266c696e65733d6c6f672825323257656c636f6d652b546f2b4d792b47495448554225323229" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://students.ubc.ca/sites/students.ubc.ca/files/connection.gif" height="10%"/></a>
 
+<h2> Hi  👋 , I'm Mohammadreza Jafari </h2>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

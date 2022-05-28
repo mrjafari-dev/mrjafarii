@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icodesolution.com%2Fmobile-app-development&psig=AOvVaw37FuUmRqQRbBEng2zZ5otg&ust=1653797947344000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICV_vyrgfgCFQAAAAAdAAAAABAD" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.icodesolution.com/resource/images/mobile-app-development.gif" height="100" /></a>
 **mrjafarii/mrjafarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

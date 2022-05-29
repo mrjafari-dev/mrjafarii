@@ -18,7 +18,7 @@
 
 <h2> Hi, I'm Mohammadreza Jafari  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15%"/> </h2>
 
-I like learning and I try to be up to date in my field of work. I am also interested in reading things like clean code and the clean coder, etc., and I also study Rajab design patterns and different architectures such as MVC, MVP and Use MVVM in my projects .
+I like learning and I try to be up to date in my field of work. I am also interested in reading things like clean code and the clean coder, etc., and I also study about design patterns and different architectures such as MVC, MVP and Use MVVM in my projects .
 
 Here are some ideas to get you started:
  
